@@ -2,3 +2,6 @@ Neste repositório está guardado meus exercícios em C, desde os primórdios do
 
 In this repository my exercises in C are kept, from the beginnings of studies, to the most advanced ones, where I practice each topic of the C language.
 
+
+2022
+
